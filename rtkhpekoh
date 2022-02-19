@@ -1,2 +1,2 @@
 local player = game.Players.LocalPlayer
-player:Kick("                                                                        You Got Banned   Reason Hacking/Script")
+player:Kick("                                                                        You Got Banned : Reason Hacking/Script")
